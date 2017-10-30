@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _70_483
 {
-    struct CreatingCustomStruct
+    struct CreatingCustomStruct //Value type 
     {
         public int x, y;
 
