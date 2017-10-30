@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{359228AA-F68F-4BE4-9FBF-AEDB92E10199}</ProjectGuid>
+    <ProjectGuid>{C4350080-B929-4128-9182-BDD4E2E57BD1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_70_483</RootNamespace>
-    <AssemblyName>70-483</AssemblyName>
+    <RootNamespace>ManageProgramFlow</RootNamespace>
+    <AssemblyName>ManageProgramFlow</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Chapter2.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
