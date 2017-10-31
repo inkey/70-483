@@ -18,6 +18,8 @@ namespace ManageProgramFlow
              */
 
             //Async/Await keywords
+            
+            Async_And_Await test = new Async_And_Await();
 
             //Concurrent Collections
             /*
