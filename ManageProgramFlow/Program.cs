@@ -11,15 +11,18 @@ namespace ManageProgramFlow
         static void Main(string[] args)
         {
             //Task Parallel Libary
-            /*
-             * ParallelFor
-             * PLINQ
-             * Tasks
-             */
+
+            // ParallelFor
+            ParallelFor ParallelForTest = new ParallelFor();
+            
+             
+             // PLINQ
+             // Tasks
+             
 
             //Async/Await keywords
             
-            Async_And_Await test = new Async_And_Await();
+            //Async_And_Await Async_And_AwaitTest = new Async_And_Await();
 
             //Concurrent Collections
             /*

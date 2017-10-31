@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _70_483
 {
-    class Chapter2
+    class CreateAndUseTypes
     {
     }
     #region Structs
