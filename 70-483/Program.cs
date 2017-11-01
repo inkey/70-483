@@ -12,8 +12,14 @@ namespace _70_483
         {
 
             //StringBuilder
-            String_Builder test = new String_Builder();
-            }
+            //  String_Builder test = new String_Builder();
+
+            //String Writter And String Reader
+            //  StringWritterAndStringReader testSWSR = new StringWritterAndStringReader();
+
+            //String Searching
+            StringSearching testStringSearch = new StringSearching();
+          }
 
     }
 }

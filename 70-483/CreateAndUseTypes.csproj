@@ -50,6 +50,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="String Builder.cs" />
+    <Compile Include="StringSearching.cs" />
+    <Compile Include="StringWritterAndStringReader.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

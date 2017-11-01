@@ -32,6 +32,7 @@ namespace ManageProgramFlow
                          index => {
                              FileInfo fi = new FileInfo(files[index]);
                              long size = fi.Length;
+
                              Interlocked.Add(ref totalSize, size);
                          });
             Console.WriteLine("Directory '{0}':", args[1]);
